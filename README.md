@@ -14,7 +14,7 @@ EduSign is built as a requirement for Bangkit 2023's Product-based Capstone Proj
 
 |            Member           				| Student ID |        Path        |                                                       Contacts                                                      |
 | :---------------------------------------: | :--------: | :----------------: | :-----------------------------------------------------------------------------------------------------------------: |
-|        Achmad Rifqi Ulumuddin       | M166DSX3107 |  Machine Learning  |        [LinkedIn](), [GitHub](https://github.com/piton-enjoyer)           |
+|        Achmad Rifqi Ulumuddin       | M166DSX3107 |  Machine Learning  |        [LinkedIn](https://www.linkedin.com/in/rifqiulumuddin/), [GitHub](https://github.com/piton-enjoyer)           |
 |      			Wildan Mufid Ramadhan    	        | M151DSX3117 |  Machine Learning  |      [LinkedIn](https://www.linkedin.com/in/wildan-mufid-ramadhan/), [GitHub](https://github.com/Kimitozuki/)|
 |     Muhammad Dzikri Rahmansyah     | A151DSX1191 | Mobile Development |     [LinkedIn](https://www.linkedin.com/in/muhammad-dzikri-rahmansyah/), [GitHub](https://github.com/TheSalmonSushi)            |
 |      Moch. Rifky Misbachudin     | A151DSX1067 | Mobile Development |     [LinkedIn](https://www.linkedin.com/in/moch-rifky-misbachudin/), [GitHub](https://github.com/rifky-22)|
