@@ -27,7 +27,7 @@ EduSign is built as a requirement for Bangkit 2023's Product-based Capstone Proj
 | :---: | :---: |
 | Mobile Development | [Github](https://github.com/TheSalmonSushi/EduSign-MD-repo.git) |
 |  Machine Learning  |  [Github](https://github.com/Kimitozuki/EduSign-ML)  |
-|   Cloud Computing  |   [Github]()  |
+|   Cloud Computing  |   [Github](https://github.com/kanankiri91/EduSign-CC)  |
 
 # License
 Distributed under the MIT License. See `LICENSE` for more information.
